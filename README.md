@@ -1,6 +1,6 @@
 ### Hi, I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I bring ideas to life as a front-end software engineer. <br />
+I bring ideas to life. <br />
 I work remotely and love to experiment with personal projects.
 
 #### Languages and tools I work with:
