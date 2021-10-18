@@ -19,6 +19,6 @@ I work remotely and love to experiment with personal projects.
 <br />
 
 - 📍 &nbsp;	Current location: Accra, GH
-- ⌨️ &nbsp;	Current Project: [Nantoo App](https://nantooapp.com)
+- ⌨️ &nbsp;	Currently contributing to: [MapStore](https://github.com/geosolutions-it/MapStore2)
 - 💬 &nbsp;	Ask me about anything, I am happy to help
 - 💌 &nbsp;	How to reach me: [quartzdavid@gmail.com](mailto:quartzdavid@gmail.com)
