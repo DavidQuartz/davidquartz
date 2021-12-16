@@ -36,5 +36,5 @@ Developer of <a href="https://nantooapp.com" target="_blank">Nantoo</a>, a geoso
 - 💌 &nbsp;	How to reach me: [quartzdavid@gmail.com](mailto:quartzdavid@gmail.com)
 
 ### My Github activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidquartz&currStreakNum=2FD3EB&theme=radical&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidquartz&currStreakNum=2FD3EB&theme=github-light&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats)
 
