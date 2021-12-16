@@ -22,6 +22,6 @@ I work remotely and love to experiment with personal projects.
 <br />
 
 - 📍 &nbsp;	Current location: Accra, GH
-- ⌨️ &nbsp;	Currently contributing to: [MapStore](https://github.com/geosolutions-it/MapStore2) & [GeoNode](https://github.com/GeoNode/geonode-mapstore-client)
+- ⌨️ &nbsp;	Currently contributing to: [MapStore](https://github.com/geosolutions-it/MapStore2) \(An Open Source WebGIS Framework\) & [GeoNode](https://github.com/GeoNode/geonode-mapstore-client) \(A CMS for geospatial data\)
 - 💬 &nbsp;	Ask me about anything, I am happy to help
 - 💌 &nbsp;	How to reach me: [quartzdavid@gmail.com](mailto:quartzdavid@gmail.com)
