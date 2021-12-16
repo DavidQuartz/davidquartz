@@ -22,6 +22,7 @@ Developer of <a href="https://nantooapp.com" target="_blank">Nantoo</a>, a geoso
 <code><img height="40" src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/heroku.png" title="Heroku"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/trello.png" title="Trello"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/figma.png" title="Figma"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/adobe-xd.png" title="Adobe XD"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png" title="Illustrator"></code>
