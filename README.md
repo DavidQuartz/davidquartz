@@ -1,7 +1,8 @@
 ### Hi, I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I bring ideas to life. <br />
-I work remotely and love to experiment with personal projects.
+I work remotely and love to experiment with personal projects.<br />
+Developer of [Nantoo](https://nantooapp.com), a geosocial app for meeting with locals and exploring new cities.
 
 #### Main languages and tools I work with:
 
