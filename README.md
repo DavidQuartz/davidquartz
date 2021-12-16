@@ -2,7 +2,7 @@
 
 I bring ideas to life. <br />
 I work remotely and love to experiment with personal projects.<br />
-Developer of [Nantoo](https://nantooapp.com), a geosocial app for safe meetups with locals and exploring new cities.
+Developer of <a href="https://nantooapp.com" target="_blank">Nantoo</a>, a geosocial app for safe meetups with locals and exploring new cities.
 
 #### Main languages and tools I work with:
 
