@@ -37,6 +37,6 @@ I work remotely and love to experiment with personal projects to bring ideas to 
 - 💬 &nbsp;	Ask me about anything, I am happy to help
 - 💌 &nbsp;	How to reach me: [quartzdavid@gmail.com](mailto:quartzdavid@gmail.com)
 
-### My Github activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidquartz&currStreakNum=2FD3EB&theme=github-light&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats)
+<!-- ### My Github activity
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidquartz&currStreakNum=2FD3EB&theme=github-light&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats) -->
 
