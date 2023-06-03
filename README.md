@@ -30,9 +30,11 @@ I work remotely and love to experiment with personal projects to bring ideas to 
 <br />
 
 - 📍 &nbsp;	Current location: Accra, GH
-- ⌨️ &nbsp;	Currently contributing to: 
+- ⌨️ &nbsp;	Previously contributing to: 
   - [MapStore](https://github.com/geosolutions-it/MapStore2) \(An Open Source WebGIS Framework\)
   - [GeoNode](https://github.com/GeoNode/geonode-mapstore-client) \(A CMS for geospatial data\)
+- ⌨️ &nbsp;	Currently contributing to: 
+  - [Distributed](https://github.com/distributed-open-source/trading-app) \(A Crypto + Stocks Trading Platform\)
 - NPM: [DavidQuartz](https://www.npmjs.com/~davidquartz)
 - 💬 &nbsp;	Ask me about anything, I am happy to help
 - 💌 &nbsp;	How to reach me: [quartzdavid@gmail.com](mailto:quartzdavid@gmail.com)
